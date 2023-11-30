@@ -1,4 +1,4 @@
-# eilo Chat App
+# Eilo Chat App
 
  This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
